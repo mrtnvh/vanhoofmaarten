@@ -1,9 +1,2 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-      <script type="text/javascript"><![CDATA[
-        window.alert("Hello world!");
-        ]]></script>
-		</div>
-	</foreignObject>
-</svg>
+Front-end developer at [ISAAC](https://isaac.nl) in Eindhoven, The Netherlands. <br/>
+[Google Mobile Web Specialist](https://www.credential.net/credential-redirect/o040z9qg) , [Open Source Contributer](https://github.com/vanhoofmaarten), [Loud Noise Generator](https://mrtnvh.com/projects/royce). 
